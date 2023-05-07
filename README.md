@@ -65,7 +65,7 @@ Aspnet Core ile modern web uygulamaları geliştirirek aşağıdaki konuları ta
     - [ ] Global Exception
     - [ ] Filters
 
-3. **Web Uygulamaları - Asp.Net Core MVC ile geliştirmeler yapılacaktır. **
+3. **Web Uygulamaları - Asp.Net Core MVC ile geliştirmeler yapılacaktır.**
     - [ ] Routing
     - [ ] Static Files
     - [ ] MVC Introduction
