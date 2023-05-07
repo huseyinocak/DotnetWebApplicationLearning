@@ -46,6 +46,12 @@ Aspnet Core ile modern web uygulamaları geliştirirek aşağıdaki konuları ta
     - [ ] Web API Layer 
     - [ ] Web View Layer
 2. **Web API**
+    - [ ] [API](./docs/API_Introduction.md)
+    - [ ] Dependeny Injection (Built-in IoC, )  
+    - [ ] Middleware
+    - [ ] Configuration
+    - [ ] Options
+    - [ ] Enviroments
     - [ ] Routing
     - [ ] Http Methods
     - [ ] Http Status Code
@@ -60,11 +66,6 @@ Aspnet Core ile modern web uygulamaları geliştirirek aşağıdaki konuları ta
     - [ ] Filters
 
 3. **Web Uygulamaları - Asp.Net Core MVC ile geliştirmeler yapılacaktır. **
-    - [ ] Dependeny Injection (Built-in IoC, )  
-    - [ ] Middleware
-    - [ ] Configuration
-    - [ ] Options
-    - [ ] Enviroments
     - [ ] Routing
     - [ ] Static Files
     - [ ] MVC Introduction
@@ -105,6 +106,7 @@ Visual Studio 2022 indirip ASP.Net Core seçeneğini seçerek kurmanız durumund
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) - .NET geliştiricileri için en kapsamlı IDE
 - [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - MS SQL Server
 - [Git](https://git-scm.com/downloads) - Version Kontrol Sistemi
+- [Postman](https://git-scm.com/downloads) - API yaşam döngüsünün her adımını basitleştirir ve API'leri daha hızlı oluşturabilmenizi sağlar.
 
 ## ✍️ Authors <a name = "authors"></a>
 
