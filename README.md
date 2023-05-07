@@ -33,7 +33,9 @@
 
 ASP.NET Core, modern, bulut özellikli, İnternet'e bağlı uygulamalar oluşturmaya yönelik platformlar arası, yüksek performanslı, açık kaynak bir çerçevedir.
 
-
+<img src="./assets/freeopensource.png" height=140px width =900px />
+<img src="./assets/fastandcross.png" height=140px width =900px />
+<img src="./assets/modernandproductive.png" height=140px width =900px />
 
 ## ∞ Getting Started <a name = "getting_started"></a>
 
