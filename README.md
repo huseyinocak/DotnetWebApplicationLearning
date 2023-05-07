@@ -40,11 +40,11 @@ ASP.NET Core, modern, bulut özellikli, İnternet'e bağlı uygulamalar oluştur
 Aspnet Core ile modern web uygulamaları geliştirirek aşağıdaki konuları tamamlayarak yüksek performanslı bir şekilde kullanabilirsiniz;
 1. **Best Practices**
     - [ ] N-Layer Architecture
-    - [ ] Core Layer
-    - [ ] Repository Layer
-    - [ ] Service Layer
-    - [ ] Web API Layer 
-    - [ ] Web View Layer
+        - [ ] Core Layer
+        - [ ] Repository Layer
+        - [ ] Service Layer
+        - [ ] Web API Layer 
+        - [ ] Web View Layer
 2. **Web API**
     - [ ] [API](./docs/API_Introduction.md)
     - [ ] Dependeny Injection (Built-in IoC, )  
