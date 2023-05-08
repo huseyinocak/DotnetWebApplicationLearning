@@ -39,6 +39,9 @@ ASP.NET Core, modern, bulut özellikli, İnternet'e bağlı uygulamalar oluştur
 <img src="./assets/fastandcross.png" height=140px width =900px />
 <img src="./assets/modernandproductive.png" height=140px width =900px />
 
+
+Geliştirme yapabilmemiz için [dotnet](https://dotnet.microsoft.com/en-us/download) ve [visual studio 2022](https://visualstudio.microsoft.com/downloads/) yüklemeniz gerekmektedir.
+
 ## ∞ Getting Started <a name = "getting_started"></a>
 
 Aspnet Core ile modern web uygulamaları geliştirirek aşağıdaki konuları tamamlayarak yüksek performanslı bir şekilde kullanabilirsiniz;
@@ -51,7 +54,7 @@ Aspnet Core ile modern web uygulamaları geliştirirek aşağıdaki konuları ta
         - [ ] Web View Layer
 2. **Web API**
     - [ ] [API](./docs/webapi.md)
-    - [ ] Dependeny Injection (Built-in IoC, )  
+    - [ ] Dependeny Injection (Built-in IoC, Autofac, Ninject)  
     - [ ] Middleware
     - [ ] Configuration
     - [ ] Options
